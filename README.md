@@ -1,4 +1,6 @@
-# fullstack-rev-mongo
+# This is a project I completed as a student at hackreactor.
+
+fullstack-rev-mongo
 
 1. Complete writing the seed function found in your seed.js file located in your root directory. 
    You may want to check what is being required such that you understand what is happening in your database.
